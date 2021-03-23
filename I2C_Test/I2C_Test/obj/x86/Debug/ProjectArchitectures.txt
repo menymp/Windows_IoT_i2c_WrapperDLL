@@ -1,0 +1,1 @@
+C:\Users\JACOSTA\Desktop\Windows iot core meny\I2C_Test\I2C_Test\I2C_Test.csproj;x86

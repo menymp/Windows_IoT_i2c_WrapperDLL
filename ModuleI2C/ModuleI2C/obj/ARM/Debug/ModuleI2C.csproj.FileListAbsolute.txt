@@ -1,0 +1,47 @@
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.dll
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.pdb
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.pri
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.csprojAssemblyReference.cache
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.csproj.CopyComplete
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.dll
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.pdb
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\priconfig.xml
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\unfiltered.layout.resfiles
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\filtered.layout.resfiles
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\excluded.layout.resfiles
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\resources.resfiles
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\pri.resfiles
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\qualifiers.txt
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\JACOSTA\Desktop\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.dll
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.pdb
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\ModuleI2C.pri
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.csprojAssemblyReference.cache
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.csproj.CoreCompileInputs.cache
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.csproj.CopyComplete
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.dll
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\ModuleI2C.pdb
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\priconfig.xml
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\unfiltered.layout.resfiles
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\filtered.layout.resfiles
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\excluded.layout.resfiles
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\resources.resfiles
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\pri.resfiles
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\qualifiers.txt
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Investigacion Windows IOT maestria\Computadora_RPI\escritorio\Windows iot core meny\DLL projects\ModuleI2C\ModuleI2C\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
